@@ -17,7 +17,7 @@ If not, the script will install them automatically.
 ### Clone Repository
 ```bash
 git clone https://github.com/Rakesh-R-K/IP-Changer-with-Encrypted-Current-IP.git
-cd ip-changer
+cd IP-Changer-with-Encrypted-Current-IP
 chmod +x ip_changer.sh current_ip.sh
 ```
 
